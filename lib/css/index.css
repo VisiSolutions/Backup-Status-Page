@@ -1,6 +1,12 @@
 body {
+	color: white;
+	background-color: #292826;
 	text-align: center;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+	color: #FF0072
 }
 
 footer {
